@@ -23,5 +23,5 @@ rect(90, 410, 460, 40)
 }
 
 function snap(){
-
+save('img.jpg');
 }
